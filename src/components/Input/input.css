@@ -1,0 +1,14 @@
+.inputDiv{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.inputT{
+    box-shadow: 5px 5px hsla(251, 9%, 24%, 0.277); 
+    margin-bottom: 15px;
+    color:hsl(249, 10%, 26%); 
+    padding: 10px;
+     border-radius: 5px;
+     border-color: rgb(203, 203, 203);
+}

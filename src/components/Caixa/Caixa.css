@@ -1,0 +1,23 @@
+
+.osP{
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+}
+.tezinho1{
+    color:  hsl(246, 25%, 77%);
+}
+
+.tezinho2{
+    color:  hsl(0, 100%, 74%) ;
+}
+.conteiner2{
+    box-shadow: 10px 10px hsl(0, 49%, 57%) ;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    padding: 40px;
+}

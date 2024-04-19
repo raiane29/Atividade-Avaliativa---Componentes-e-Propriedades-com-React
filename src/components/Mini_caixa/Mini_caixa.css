@@ -1,0 +1,9 @@
+.t{
+    color: aliceblue;
+    font-size: 16px;
+    background-color:hsl(248, 32%, 49%) ;
+    padding: 20px ;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+
